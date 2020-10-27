@@ -1,1 +1,5 @@
-MVP with login feature and reusable components, tech-stack: Node js, Koa, PostgreSQL, Docker,Redux, React js, AntD, Charts js.
+## General Info
+MVP  for an upcoming start-up with login,authentication features and reusable components 
+
+## Technologies
+PostgreSQL, Node Js, Koa, JWT tokens, Docker, Redux, React Js, AntD, Charts Js.
