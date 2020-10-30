@@ -1,5 +1,5 @@
 ## General Info
-MVP  for an upcoming start-up with login, authentication features and reusable components 
+MVP  for an upcoming start-up with login and authentication features, as well as reusable components 
 
 ## Technologies
 * PostgreSQL
